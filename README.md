@@ -1,0 +1,2 @@
+# repoGrupo
+ejercicio github grupo
